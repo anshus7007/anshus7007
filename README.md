@@ -1,35 +1,60 @@
-<h1 align="left">Hey everyone, I'm Anshu Sharma 👋</h1>
-<h3 align="left">👨🏻‍🎓 3rd Year B.Tech Student. 
-💻 Computer Science Major. 
-📱 Android Developer. 
-🖥 Backend Developer. 
-☕️ Java </h3>
+# Hey Everyone! I'm [Anshu Sharma!](https://github.com/anshus7007) <img src="Hi.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshus7007&label=Profile%20views&color=0e75b6&style=flat" alt="anshus7007" /> </p>
+<h3><b><samp>About Me</samp></b></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshus7007" alt="anshus7007" /></a> </p>
+- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 💻 Computer Science Major.
+- 📱 Android Developer.
+- 🖥 Backend Developer.
+- ☕️ Java 
 
-- 🔭 I’m currently working on **CodeChef Prime App**
 
-- 🌱 I’m currently learning **NodeJs and eactJs**
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>     
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshus7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshus7007" height="30" width="40" /></a>
-<a href="https://instagram.com/anshu__7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu__7007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshu__24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshu__24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshus7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshus7007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anshus7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshus7007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshus7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshus7007" height="30" width="40" /></a>
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-013243?style=flat-square&logo=Kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffcb2c?style=flat-square&logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-292c33?style=flat-square&logo=react&logoColor=80d8f7)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-292c33?style=flat-square&logo=express&logoColor=90c3f9)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=80d8f7)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-1c1f23?style=flat-square&logo=springboot&logoColor=339933)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+   
+
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-cccccc?style=flat-square&logo=eclipse&logoColor=29234f)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-307FEF?style=flat-square&logo=DigitalOcean&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-365B9E?style=flat-square&logo=microsoftazure&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white) 
+
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/anshus7007"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=anshus7007&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anshus7007&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshus7007&show_icons=true&locale=en" alt="anshus7007" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshus7007&show_icons=true&locale=en&layout=compact" alt="anshus7007" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshus7007&" alt="anshus7007" /></p>
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anshus7007/count.svg" />
+</p>
+  
+![](https://github.com/anshus7007/anshus7007/blob/4908f32f2435d0de2d6b0c7fa63af557617e7a69/bottom_header.svg)
