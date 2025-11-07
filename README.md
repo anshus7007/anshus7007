@@ -2,7 +2,7 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 👨🏻‍🎓 Working Professional | 3 years 
 - 💻 Computer Science Major.
 - 📱 Android Developer.
 - 🖥 Backend Developer.
